@@ -1,0 +1,27 @@
+{
+    "status": "active",
+    "admin_auth": {
+        "username": "admin",
+        "password": "123456"
+    },
+    "stats": {
+        "total_users": 0,
+        "subscribers": 1250,
+        "boy_prompts_count": 0,
+        "girl_prompts_count": 0
+    },
+    "prompts": {
+        "boys": [
+            "🚀 بروميت ولاد 1: Cinematic cyber punk street portrait, 8k, highly detailed",
+            "🔥 بروميت ولاد 2: Epic dark fantasy warrior in heavy armor, dramatic lighting"
+        ],
+        "girls": [
+            "✨ بروميت بنات 1: Elegant pastel aesthetic cozy room, soft warm lighting, 4k",
+            "💖 بروميت بنات 2: Cute aesthetic minimalist fashion portrait, cinematic glow"
+        ]
+    },
+    "settings": {
+        "welcome_msg": "أهلاً بك في البوت الاحترافي لتوليد البروميتات الجاهزة! 🌟\nاختر القسم المناسب لك أدناه:",
+        "help_msg": "📖 دليل الاستخدام:\n- قسم الأولاد: أرسل رقماً عشوائياً مباشراً وسيرسل لك البوت بروميت عشوائي خاص بالشباب.\n- قسم البنات: أرسل الرقم متبوعاً برمز شباك (#) مثل (5#) وسيرسل لك البوت بروميت خاص للبنات."
+    }
+}
